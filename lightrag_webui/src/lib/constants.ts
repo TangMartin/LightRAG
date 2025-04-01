@@ -1,7 +1,6 @@
 import { ButtonVariantType } from '@/components/ui/Button'
 
-export const backendBaseUrl = ''
-export const webuiPrefix = '/webui/'
+export const backendBaseUrl = 'http://localhost:9621'
 
 export const controlButtonVariant: ButtonVariantType = 'ghost'
 

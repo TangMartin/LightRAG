@@ -1,0 +1,889 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d7" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d6" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Martin Tang">
+      <data key="d0">Martin Tang</data>
+      <data key="d1">person</data>
+      <data key="d2">Martin Tang is a faculty member in the Faculty of Applied Science at UBC, involved in teaching undergraduate courses such as Physics and Writing.&lt;SEP&gt;Martin Tang is a student enrolled in the University of British Columbia's Faculty of Applied Science, pursuing a B.A.Sc. in Computer Engineering.&lt;SEP&gt;Martin Tang is a student pursuing a Bachelor of Applied Science in Computer Engineering at the University of British Columbia with notable achievements, including scholarships and internships at major tech companies.&lt;SEP&gt;Martin Tang is an undergraduate student enrolled in the Faculty of Applied Science at UBC, engaged in various engineering courses during the summer and winter sessions.&lt;SEP&gt;Martin Tang is an undergraduate student enrolled in the Faculty of Applied Science at UBC-V, pursuing a B.A.Sc. degree.&lt;SEP&gt;Martin Tang is an undergraduate student in the Faculty of Applied Science at UBC, involved in various engineering courses during the summer and winter academic sessions.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86&lt;SEP&gt;chunk-be42cab223c3bad7ea0f8d1707b8f63d&lt;SEP&gt;chunk-43b3af734999a6a20ce7d809755f43c4&lt;SEP&gt;chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad&lt;SEP&gt;chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="University of British Columbia">
+      <data key="d0">University of British Columbia</data>
+      <data key="d1">organization</data>
+      <data key="d2">The University of British Columbia is a leading Canadian university where Martin is pursuing his degree in Computer Engineering.&lt;SEP&gt;The University of British Columbia is a major educational institution located in Vancouver, offering various undergraduate and graduate programs.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d&lt;SEP&gt;chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="Meta">
+      <data key="d0">Meta</data>
+      <data key="d1">organization</data>
+      <data key="d2">Meta is a global technology company where Martin has an upcoming internship position as a Business Engineer Intern.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="IBM">
+      <data key="d0">IBM</data>
+      <data key="d1">organization</data>
+      <data key="d2">IBM is a global technology and consulting company where Martin worked as a Software Engineer Intern, facilitating technical implementations.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="SAP">
+      <data key="d0">SAP</data>
+      <data key="d1">organization</data>
+      <data key="d2">SAP is a market leader in enterprise application software where Martin interned as a Cloud Engineer, maintaining high uptime on cloud services.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Bombardier">
+      <data key="d0">Bombardier</data>
+      <data key="d1">organization</data>
+      <data key="d2">Bombardier is a Canadian aerospace and transportation company where Martin was a Product Manager Intern, working on process documentation and partner onboarding.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Securon">
+      <data key="d0">Securon</data>
+      <data key="d1">organization</data>
+      <data key="d2">Securon is a startup co-founded by Martin, focused on developing a data governance tool leveraging AI technologies.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Notion">
+      <data key="d0">Notion</data>
+      <data key="d1">organization</data>
+      <data key="d2">Notion is a productivity software used by Martin for workshop facilitation, where he serves as a Campus Leader.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Sonder">
+      <data key="d0">Sonder</data>
+      <data key="d1">organization</data>
+      <data key="d2">Sonder is a tech company where Martin is currently a Product Manager, leading product development for an event platform.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="The Caffeine Experience">
+      <data key="d0">The Caffeine Experience</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Caffeine Experience is a Singaporean café assisted by Martin in migrating their SOP to Notion.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Bachelor of Applied Science in Computer Engineering">
+      <data key="d0">Bachelor of Applied Science in Computer Engineering</data>
+      <data key="d1">category</data>
+      <data key="d2">This is an undergraduate degree Martin is pursuing, focusing on the application of engineering principles in computing.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Loran Scholarship">
+      <data key="d0">Loran Scholarship</data>
+      <data key="d1">category</data>
+      <data key="d2">The Loran Scholarship is a prestigious merit-based scholarship Martin received, awarded to top 0.5% of students in Canada.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Technical Implementations at IBM">
+      <data key="d0">Technical Implementations at IBM</data>
+      <data key="d1">event</data>
+      <data key="d2">A set of projects Martin worked on during his internship at IBM, focusing on various technical enhancements.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="SaaS Level Changes at SAP">
+      <data key="d0">SaaS Level Changes at SAP</data>
+      <data key="d1">event</data>
+      <data key="d2">SaaS level changes Martin managed at SAP involved deploying updates across thousands of tenants, showcasing his technical skills.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Leadership Workshops">
+      <data key="d0">Leadership Workshops</data>
+      <data key="d1">event</data>
+      <data key="d2">Workshops conducted by Martin as a Campus Leader at Notion aimed at enhancing software development skills among students.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Nanyang Technological University">
+      <data key="d0">Nanyang Technological University</data>
+      <data key="d1">organization</data>
+      <data key="d2">Nanyang Technological University is a prestigious university in Singapore where Martin will be attending for an exchange semester.&lt;SEP&gt;Nanyang Technological University is a prominent university in Singapore, recognized for its engineering and technology programs, from which Martin Tang received transfer credits.&lt;SEP&gt;Nanyang Technological University is a prominent university in Singapore, recognized for its engineering and technology programs.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d&lt;SEP&gt;chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="Summer 2025">
+      <data key="d0">Summer 2025</data>
+      <data key="d1">event</data>
+      <data key="d2">Summer 2025 refers to Martin's upcoming internship at Meta as a Business Engineer.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Product Development for Sonder">
+      <data key="d0">Product Development for Sonder</data>
+      <data key="d1">event</data>
+      <data key="d2">Product development processes that Martin is leading at Sonder for their iOS event platform.</data>
+      <data key="d3">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </node>
+    <node id="Faculty of Applied Science">
+      <data key="d0">Faculty of Applied Science</data>
+      <data key="d1">category</data>
+      <data key="d2">The Faculty of Applied Science at UBC encompasses various engineering and applied science disciplines, including Computer Engineering.&lt;SEP&gt;The Faculty of Applied Science at UBC encompasses various engineering and applied science disciplines.&lt;SEP&gt;The Faculty of Applied Science at UBC offers various undergraduate engineering programs and oversees the courses taken by students like Martin Tang.&lt;SEP&gt;The Faculty of Applied Science at the University of British Columbia (UBC) offers undergraduate engineering programs and oversees the academic development of students enrolled in these programs.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad&lt;SEP&gt;chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="Computer Engineering">
+      <data key="d0">Computer Engineering</data>
+      <data key="d1">category</data>
+      <data key="d2">Computer Engineering is a field of study that integrates electrical engineering and computer science to develop computer systems and hardware.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="2024 Summer Session (UBC-V)">
+      <data key="d0">2024 Summer Session (UBC-V)</data>
+      <data key="d1">event</data>
+      <data key="d2">The 2024 Summer Session refers to a specific academic term at UBC where courses are offered during the summer, including work term courses.&lt;SEP&gt;The 2024 Summer Session refers to a specific academic term at UBC where courses are offered during the summer.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="2023-24 Winter Session (UBC-V)">
+      <data key="d0">2023-24 Winter Session (UBC-V)</data>
+      <data key="d1">event</data>
+      <data key="d2">The 2023-24 Winter Session is another academic term at UBC, featuring various courses, including cooperative education work terms.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="EXCH_V 373">
+      <data key="d0">EXCH_V 373</data>
+      <data key="d1">category</data>
+      <data key="d2">EXCH_V 373 is an Applied Science Exchange course offered at UBC, allowing students to participate in exchange programs.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="APSC_V 310">
+      <data key="d0">APSC_V 310</data>
+      <data key="d1">category</data>
+      <data key="d2">APSC_V 310 is a Co-operative Education Work Term course at UBC that provides students with practical work experience in their field of study.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="APSC_V 210">
+      <data key="d0">APSC_V 210</data>
+      <data key="d1">category</data>
+      <data key="d2">APSC_V 210 is a Co-operative Education Work Term course at UBC for students in the Faculty of Applied Science.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="HIST_V 373">
+      <data key="d0">HIST_V 373</data>
+      <data key="d1">category</data>
+      <data key="d2">HIST_V 373 is a course related to the history of Hong Kong that was taken by Martin Tang at Nanyang Technological University.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="COMM_V 3RD">
+      <data key="d0">COMM_V 3RD</data>
+      <data key="d1">category</data>
+      <data key="d2">COMM_V 3RD is a course related to business management that Martin Tang completed at Nanyang Technological University.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="COMM_V 498">
+      <data key="d0">COMM_V 498</data>
+      <data key="d1">category</data>
+      <data key="d2">COMM_V 498 is a course offered at NTU focused on International Business Management, contributing to Martin Tang's academic credits.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="HIST_V 1ST">
+      <data key="d0">HIST_V 1ST</data>
+      <data key="d1">category</data>
+      <data key="d2">HIST_V 1ST is a history course taken by Martin Tang at Nanyang Technological University.</data>
+      <data key="d3">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </node>
+    <node id="2023 Summer Session (UBC-V)">
+      <data key="d0">2023 Summer Session (UBC-V)</data>
+      <data key="d1">event</data>
+      <data key="d2">The 2023 Summer Session at UBC Vancouver includes multiple courses, such as Co-operative Education Work Term I and Engineering and Sustainable Development, focusing on practical learning experiences.&lt;SEP&gt;The 2023 Summer Session at UBC Vancouver includes various courses such as Co-operative Education Work Term I and Engineering and Sustainable Development.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="2022-23 Winter Session (UBC-V)">
+      <data key="d0">2022-23 Winter Session (UBC-V)</data>
+      <data key="d1">event</data>
+      <data key="d2">The 2022-23 Winter Session at UBC Vancouver comprises multiple engineering courses including Introduction to Engineering Co-op and Computing Systems.&lt;SEP&gt;The 2022-23 Winter Session at UBC Vancouver consists of a range of engineering courses including Introduction to Engineering Co-op and Computing Systems, aimed at undergraduate students.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="APSC_V 110">
+      <data key="d0">APSC_V 110</data>
+      <data key="d1">category</data>
+      <data key="d2">APSC_V 110 is a course focused on Co-operative Education Work Term I under the Faculty of Applied Science at UBC.&lt;SEP&gt;APSC_V 110 is a course that focuses on Co-operative Education Work Term I, allowing students to gain practical work experience related to their field of study.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="CIVL_V 250">
+      <data key="d0">CIVL_V 250</data>
+      <data key="d1">category</data>
+      <data key="d2">CIVL_V 250 is a course on Engineering and Sustainable Development provided during the summer session at UBC.&lt;SEP&gt;CIVL_V 250 is a course on Engineering and Sustainable Development, provided during the summer session at UBC, that addresses engineering challenges in sustainable practices.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="CPEN_V 211">
+      <data key="d0">CPEN_V 211</data>
+      <data key="d1">category</data>
+      <data key="d2">CPEN_V 211 is a course on Computing Systems I, offered to undergraduates during the winter session, focusing on fundamental programming and computer systems.&lt;SEP&gt;CPEN_V 211 is a course titled Computing Systems I, part of the winter term curriculum for undergraduate engineering students at UBC.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="CPEN_V 212">
+      <data key="d0">CPEN_V 212</data>
+      <data key="d1">category</data>
+      <data key="d2">CPEN_V 212 is a course titled Computing Systems II, available in the winter term for undergraduate students in engineering.&lt;SEP&gt;CPEN_V 212 is a course titled Computing Systems II, furthering student knowledge of computer systems and programming concepts in the winter term.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="CPEN_V 221">
+      <data key="d0">CPEN_V 221</data>
+      <data key="d1">category</data>
+      <data key="d2">CPEN_V 221 is a course in Software Construction I, focusing on software development practices and is part of the winter session curriculum at UBC.&lt;SEP&gt;CPEN_V 221 is a course on Software Construction I, part of the winter term offerings at UBC.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="CPSC_V 221">
+      <data key="d0">CPSC_V 221</data>
+      <data key="d1">category</data>
+      <data key="d2">CPSC_V 221 is focused on Basic Algorithms and Data Structures, essential for computer science students, offered during the winter session.&lt;SEP&gt;CPSC_V 221 is focused on Basic Algorithms and Data Structures, taught during the winter term at UBC.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="ELEC_V 201">
+      <data key="d0">ELEC_V 201</data>
+      <data key="d1">category</data>
+      <data key="d2">ELEC_V 201 is a course in Circuit Analysis I, part of the winter session academic curriculum at UBC.&lt;SEP&gt;ELEC_V 201 is a course in Circuit Analysis I, part of the winter session offerings that teaches fundamental concepts of electrical engineering.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="MATH_V 220">
+      <data key="d0">MATH_V 220</data>
+      <data key="d1">category</data>
+      <data key="d2">MATH_V 220 covers Mathematical Proof, offered in the winter term for undergraduate engineering students at UBC.&lt;SEP&gt;MATH_V 220 is a course focusing on Mathematical Proof, important for engineering students to validate their understanding of mathematical concepts in the winter session.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="MATH_V 253">
+      <data key="d0">MATH_V 253</data>
+      <data key="d1">category</data>
+      <data key="d2">MATH_V 253 is a course on Multivariable Calculus provided during the winter session at UBC.&lt;SEP&gt;MATH_V 253 is a course on Multivariable Calculus, taught in the winter term, crucial for engineering students focusing on advanced mathematics.&lt;SEP&gt;MATH_V 253 is a course titled Multivariable Calculus that is part of Martin Tang's academic curriculum.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad&lt;SEP&gt;chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="MATH_V 256">
+      <data key="d0">MATH_V 256</data>
+      <data key="d1">category</data>
+      <data key="d2">MATH_V 256 is a course covering Differential Equations, integral for students in engineering disciplines, offered in the winter session.&lt;SEP&gt;MATH_V 256 is a course focused on Differential Equations, part of the winter term courses at UBC.&lt;SEP&gt;MATH_V 256 is a course titled Differential Equations taken by Martin Tang during the winter term of the 2022-23 academic year.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad&lt;SEP&gt;chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="APSC_V 107">
+      <data key="d0">APSC_V 107</data>
+      <data key="d1">category</data>
+      <data key="d2">APSC_V 107 is a course titled Introduction to Engineering Co-op, which prepares students for cooperative education placements during the winter session at UBC.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="CPEN_V 281">
+      <data key="d0">CPEN_V 281</data>
+      <data key="d1">category</data>
+      <data key="d2">CPEN_V 281 is a course in Technical Communication, aimed at improving students' communication skills in technical contexts during the winter session.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="CPEN_V 291">
+      <data key="d0">CPEN_V 291</data>
+      <data key="d1">category</data>
+      <data key="d2">CPEN_V 291 is a course on Computer Engineering Design Studio I, offering practical experience in computer engineering projects in the winter term.</data>
+      <data key="d3">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </node>
+    <node id="UBC-V">
+      <data key="d0">UBC-V</data>
+      <data key="d1">organization</data>
+      <data key="d2">UBC-V refers to the University of British Columbia's Vancouver campus where various academic programs, including Physics and Engineering, are offered.&lt;SEP&gt;UBC-V refers to the University of British Columbia, Vancouver campus, which is the institution where Martin Tang is studying.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86&lt;SEP&gt;chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="Vancouver">
+      <data key="d0">Vancouver</data>
+      <data key="d1">geo</data>
+      <data key="d2">Vancouver is the city in Canada where UBC-V is located, serving as a significant academic and cultural hub.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="Differential Equations">
+      <data key="d0">Differential Equations</data>
+      <data key="d1">course</data>
+      <data key="d2">Differential Equations is a mathematics course taken by Martin Tang as part of his curriculum.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="Integral Calculus">
+      <data key="d0">Integral Calculus</data>
+      <data key="d1">course</data>
+      <data key="d2">Integral Calculus is a mathematics course required for Martin Tang's engineering degree curriculum.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="Introduction to Engineering I">
+      <data key="d0">Introduction to Engineering I</data>
+      <data key="d1">course</data>
+      <data key="d2">Introduction to Engineering I is an introductory course that Martin Tang completed during his first winter term.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="Chemistry for Engineering">
+      <data key="d0">Chemistry for Engineering</data>
+      <data key="d1">course</data>
+      <data key="d2">Chemistry for Engineering is part of Martin Tang's coursework, focusing on principles relevant to engineering applications.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="Introductory Physics for Engineers I">
+      <data key="d0">Introductory Physics for Engineers I</data>
+      <data key="d1">course</data>
+      <data key="d2">Introductory Physics for Engineers I is a foundational physics course completed by Martin Tang as part of his program.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="APSC_V 100">
+      <data key="d0">APSC_V 100</data>
+      <data key="d1">course</data>
+      <data key="d2">APSC_V 100 is an introductory engineering course that Martin Tang completed, focusing on basic engineering principles.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="APSC_V 101">
+      <data key="d0">APSC_V 101</data>
+      <data key="d1">course</data>
+      <data key="d2">APSC_V 101 is a follow-up course to APSC_V 100, covering more advanced engineering topics.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="APSC_V 160">
+      <data key="d0">APSC_V 160</data>
+      <data key="d1">course</data>
+      <data key="d2">APSC_V 160 is a course titled Introduction to Computation in Engineering Design, important for Martin's understanding of computational applications in engineering.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="CHEM_V 154">
+      <data key="d0">CHEM_V 154</data>
+      <data key="d1">course</data>
+      <data key="d2">CHEM_V 154, Chemistry for Engineering, integrates chemical concepts relevant to engineering study, and is taken by Martin Tang.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="MATH_V 100">
+      <data key="d0">MATH_V 100</data>
+      <data key="d1">course</data>
+      <data key="d2">MATH_V 100 is a course focusing on Differential Calculus with Applications to Physical Sciences and Engineering.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="MATH_V 101">
+      <data key="d0">MATH_V 101</data>
+      <data key="d1">course</data>
+      <data key="d2">MATH_V 101 is a course that covers Integral Calculus with Applications to Physical Sciences and Engineering.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="MATH_V 152">
+      <data key="d0">MATH_V 152</data>
+      <data key="d1">course</data>
+      <data key="d2">MATH_V 152 focuses on Linear Systems, an important course for engineering students like Martin Tang.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="PHYS_V 157">
+      <data key="d0">PHYS_V 157</data>
+      <data key="d1">course</data>
+      <data key="d2">PHYS_V 157 is an introductory physics course designed specifically for engineering students.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="PHYS_V 158">
+      <data key="d0">PHYS_V 158</data>
+      <data key="d1">course</data>
+      <data key="d2">PHYS_V 158 is a continuation of introductory physics for engineers, focusing on more advanced concepts.</data>
+      <data key="d3">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="PHYS_V 159">
+      <data key="d0">PHYS_V 159</data>
+      <data key="d1">course</data>
+      <data key="d2">PHYS_V 159 is a laboratory course where engineering students like Martin Tang gain practical experience in physics.&lt;SEP&gt;PHYS_V 159 is a specific course titled Introductory Physics Laboratory for Engineers offered during the Winter Term 2.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86&lt;SEP&gt;chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="PHYS_V 170">
+      <data key="d0">PHYS_V 170</data>
+      <data key="d1">course</data>
+      <data key="d2">PHYS_V 170 is a course on Mechanics I that is part of Martin Tang's engineering education.&lt;SEP&gt;PHYS_V 170 is a course titled Mechanics I which is another offering for engineering students during the academic term.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86&lt;SEP&gt;chunk-d564692cd2696356ec124209a08af4aa</data>
+    </node>
+    <node id="UBC">
+      <data key="d0">UBC</data>
+      <data key="d1">organization</data>
+      <data key="d2">The University of British Columbia (UBC) is an academic institution where Martin Tang teaches and students pursue undergraduate degrees.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="Introductory Physics Laboratory for Engineers">
+      <data key="d0">Introductory Physics Laboratory for Engineers</data>
+      <data key="d1">event</data>
+      <data key="d2">The Introductory Physics Laboratory for Engineers is a course offered at UBC during the Winter Term, focusing on practical physics experiments.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="Mechanics I">
+      <data key="d0">Mechanics I</data>
+      <data key="d1">event</data>
+      <data key="d2">Mechanics I is another course offered at UBC during the Winter Term that covers fundamental principles of mechanics.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="Writing and Research in the Disciplines">
+      <data key="d0">Writing and Research in the Disciplines</data>
+      <data key="d1">event</data>
+      <data key="d2">Writing and Research in the Disciplines is a course aimed at enhancing students' writing and research skills, provided at UBC.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="2021-22 Winter Term 2">
+      <data key="d0">2021-22 Winter Term 2</data>
+      <data key="d1">category</data>
+      <data key="d2">The 2021-22 Winter Term 2 is a specific academic term during which courses like Introductory Physics Laboratory for Engineers and Mechanics I are conducted.&lt;SEP&gt;The 2021-22 Winter Term 2 is an academic term designated for courses such as PHYS_V 159 and PHYS_V 170.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="Cumulative GPA">
+      <data key="d0">Cumulative GPA</data>
+      <data key="d1">category</data>
+      <data key="d2">Cumulative GPA is an academic metric that represents a student's overall grade point average; in this case, it stands at 83.9.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="WRDS_V 150">
+      <data key="d0">WRDS_V 150</data>
+      <data key="d1">event</data>
+      <data key="d2">WRDS_V 150 is a course focused on Writing and Research in the Disciplines, designed to enhance students' writing skills.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="2021-22 Winter Term 1">
+      <data key="d0">2021-22 Winter Term 1</data>
+      <data key="d1">category</data>
+      <data key="d2">The 2021-22 Winter Term 1 is an academic term during which specific courses, including WRDS_V 150, are conducted.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="Credits Attempted">
+      <data key="d0">Credits Attempted</data>
+      <data key="d1">category</data>
+      <data key="d2">Credits Attempted represents the total number of credits that students have enrolled in during a specific academic term.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="Credits Earned">
+      <data key="d0">Credits Earned</data>
+      <data key="d1">category</data>
+      <data key="d2">Credits Earned accounts for the number of credits successfully completed by students during an academic term.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="GPA Credits">
+      <data key="d0">GPA Credits</data>
+      <data key="d1">category</data>
+      <data key="d2">GPA Credits pertains to the credits that are counted towards calculating the Grade Point Average (GPA) of a student.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="Cumulative Totals">
+      <data key="d0">Cumulative Totals</data>
+      <data key="d1">category</data>
+      <data key="d2">Cumulative Totals reflect a summary of a student's total academic performance over time.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="In Good Standing">
+      <data key="d0">In Good Standing</data>
+      <data key="d1">category</data>
+      <data key="d2">In Good Standing indicates that a student has achieved satisfactory academic performance according to institutional standards.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="Dean's List">
+      <data key="d0">Dean's List</data>
+      <data key="d1">category</data>
+      <data key="d2">Dean's List is an academic honor awarded to students who achieve high academic standing, distinguishing them among peers.</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </node>
+    <node id="Cumulative Credits Earned">
+      <data key="d0">Cumulative Credits Earned</data>
+      <data key="d3">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+      <data key="d2">The Cumulative GPA is calculated based on the Cumulative Credits Earned, which is 34 in this case.</data>
+      <data key="d1">UNKNOWN</data>
+    </node>
+    <edge source="Martin Tang" target="University of British Columbia">
+      <data key="d4">36.0</data>
+      <data key="d5">Martin Tang is a student at the University of British Columbia, enrolled in the Faculty of Applied Science.&lt;SEP&gt;Martin is a student at the University of British Columbia, pursuing his Bachelor of Applied Science degree there.</data>
+      <data key="d6">education, student affiliation&lt;SEP&gt;education, student relationship</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d&lt;SEP&gt;chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Martin Tang" target="Meta">
+      <data key="d4">16.0</data>
+      <data key="d5">Martin has an upcoming internship at Meta, indicating his involvement in the tech industry and career development.</data>
+      <data key="d6">internship opportunity, career growth</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Martin Tang" target="IBM">
+      <data key="d4">18.0</data>
+      <data key="d5">During his time at IBM, Martin facilitated significant technical implementations, enhancing his professional experience.</data>
+      <data key="d6">work experience, technical development</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Martin Tang" target="SAP">
+      <data key="d4">16.0</data>
+      <data key="d5">Martin interned at SAP, where he maintained cloud service uptime and worked on complex technical solutions.</data>
+      <data key="d6">internship experience, cloud engineering</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Martin Tang" target="Bombardier">
+      <data key="d4">14.0</data>
+      <data key="d5">At Bombardier, Martin worked as a Product Manager Intern, contributing to product documentation and partner onboarding processes.</data>
+      <data key="d6">internship role, product management</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Martin Tang" target="Securon">
+      <data key="d4">20.0</data>
+      <data key="d5">As a co-founder of Securon, Martin is involved in building innovative tools for data governance with advanced technologies.</data>
+      <data key="d6">entrepreneurship, innovation</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Martin Tang" target="Notion">
+      <data key="d4">16.0</data>
+      <data key="d5">Through his role as Campus Leader at Notion, Martin leads workshops aimed at improving student well-being and productivity.</data>
+      <data key="d6">leadership, educational initiatives</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Martin Tang" target="Sonder">
+      <data key="d4">18.0</data>
+      <data key="d5">Martin is leading product development at Sonder, showing his continued engagement in the tech startup ecosystem.&lt;SEP&gt;Martin is leading product development at Sonder, which shows his continued engagement in the tech startup ecosystem.</data>
+      <data key="d6">product management, tech industry</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Martin Tang" target="Nanyang Technological University">
+      <data key="d4">22.0</data>
+      <data key="d5">Martin Tang has received transfer credits from courses taken at Nanyang Technological University in Singapore.&lt;SEP&gt;Martin will be participating in an exchange semester at Nanyang Technological University, broadening his international academic experience.</data>
+      <data key="d6">academic exchange, international study&lt;SEP&gt;academic transfer, international education</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d&lt;SEP&gt;chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Martin Tang" target="The Caffeine Experience">
+      <data key="d4">7.0</data>
+      <data key="d5">Martin assisted The Caffeine Experience in migrating to Notion, showcasing his application of software tools in real-world scenarios.</data>
+      <data key="d6">business assistance, software application</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Martin Tang" target="Faculty of Applied Science">
+      <data key="d4">36.0</data>
+      <data key="d5">Martin Tang is a student enrolled in the Faculty of Applied Science at UBC, pursuing undergraduate engineering courses.&lt;SEP&gt;Martin Tang is enrolled as a student within the Faculty of Applied Science at UBC, focusing on engineering courses and academic progress.&lt;SEP&gt;Martin Tang is part of the Faculty of Applied Science at UBC, where he studies Computer Engineering.</data>
+      <data key="d6">academic program, departmental affiliation&lt;SEP&gt;student enrollment, academic affiliation</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad&lt;SEP&gt;chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Martin Tang" target="Computer Engineering">
+      <data key="d4">20.0</data>
+      <data key="d5">Martin Tang is pursuing a B.A.Sc. degree specifically in Computer Engineering.</data>
+      <data key="d6">field of study, academic focus</data>
+      <data key="d7">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Martin Tang" target="APSC_V 310">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is enrolled in the APSC_V 310 course for his Co-operative Education Work Term during the 2024 Summer Session.</data>
+      <data key="d6">course enrollment, practical experience</data>
+      <data key="d7">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Martin Tang" target="APSC_V 210">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is also enrolled in the APSC_V 210 course for his Co-operative Education Work Term during the 2023-24 Winter Session.</data>
+      <data key="d6">course enrollment, practical experience</data>
+      <data key="d7">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Martin Tang" target="EXCH_V 373">
+      <data key="d4">7.0</data>
+      <data key="d5">Martin Tang has received credit for the EXCH_V 373 course taken during his exchange program at Nanyang Technological University.</data>
+      <data key="d6">course credit, international education</data>
+      <data key="d7">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Martin Tang" target="2023 Summer Session (UBC-V)">
+      <data key="d4">16.0</data>
+      <data key="d5">Martin Tang is actively enrolled in components of the 2023 Summer Session at UBC.&lt;SEP&gt;Martin Tang is actively enrolled in courses during the 2023 Summer Session at UBC, contributing to his educational development.</data>
+      <data key="d6">academic participation, summer session</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="Martin Tang" target="2022-23 Winter Session (UBC-V)">
+      <data key="d4">16.0</data>
+      <data key="d5">Martin Tang is taking multiple courses during the 2022-23 Winter Session at UBC, advancing his engineering studies.&lt;SEP&gt;Martin Tang is taking various courses during the 2022-23 Winter Session at UBC.</data>
+      <data key="d6">academic participation, winter session</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="Martin Tang" target="APSC_V 110">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is enrolled in APSC_V 110 as part of his summer studies, focusing on co-operative education experience.</data>
+      <data key="d6">student course enrollment, educational experience</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="Martin Tang" target="APSC_V 107">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is enrolled in APSC_V 107 as part of his winter studies, which prepares him for cooperative education placements.</data>
+      <data key="d6">student course enrollment, educational preparation</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="Martin Tang" target="CPEN_V 221">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is taking CPEN_V 221 during the winter session, enhancing his skills in software construction.</data>
+      <data key="d6">student course enrollment, skill development</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="Martin Tang" target="CPSC_V 221">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is enrolled in CPSC_V 221 as part of his winter session studies, focusing on algorithms and data structures.</data>
+      <data key="d6">student course enrollment, computer science focus</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="Martin Tang" target="ELEC_V 201">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is taking ELEC_V 201 in the winter session, learning circuit analysis principles vital for engineering.</data>
+      <data key="d6">student course enrollment, electrical engineering</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="Martin Tang" target="UBC-V">
+      <data key="d4">27.0</data>
+      <data key="d5">Martin Tang is a student enrolled at UBC-V, the institution where he pursues his degree.&lt;SEP&gt;Martin Tang is part of the UBC-V faculty, teaching courses within the Faculty of Applied Science.</data>
+      <data key="d6">academic affiliation, teaching&lt;SEP&gt;student enrollment, educational affiliation</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86&lt;SEP&gt;chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="Vancouver">
+      <data key="d4">16.0</data>
+      <data key="d5">As a student at UBC-V, Martin Tang lives and studies in Vancouver, which is integral to his academic experience.</data>
+      <data key="d6">location, educational context</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="Differential Equations">
+      <data key="d4">9.0</data>
+      <data key="d5">Martin Tang is enrolled in the Differential Equations course as part of his academic program at UBC-V.</data>
+      <data key="d6">course enrollment, academic progress</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="Integral Calculus">
+      <data key="d4">9.0</data>
+      <data key="d5">Martin Tang's curriculum includes Integral Calculus, essential for his engineering studies.</data>
+      <data key="d6">course requirement, educational path</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="Introduction to Engineering I">
+      <data key="d4">8.0</data>
+      <data key="d5">Introduction to Engineering I is a course completed by Martin Tang, introducing him to fundamental engineering concepts.</data>
+      <data key="d6">course completion, foundational knowledge</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="Chemistry for Engineering">
+      <data key="d4">8.0</data>
+      <data key="d5">Chemistry for Engineering is a required course for Martin Tang, focusing on chemistry principles applicable to engineering.</data>
+      <data key="d6">curricular component, applied sciences</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="Introductory Physics for Engineers I">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang completed Introductory Physics for Engineers I, which is critical for understanding engineering principles.</data>
+      <data key="d6">course completion, fundamental principles</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="MATH_V 253">
+      <data key="d4">9.0</data>
+      <data key="d5">Martin Tang is enrolled in the Multivariable Calculus course as part of his academic curriculum at UBC-V.</data>
+      <data key="d6">course enrollment, academic progress</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="MATH_V 256">
+      <data key="d4">9.0</data>
+      <data key="d5">Martin Tang is taking the Differential Equations course, which is necessary for his engineering studies.</data>
+      <data key="d6">course requirement, academic studies</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="APSC_V 100">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang completed APSC_V 100, an introductory course critical for his foundation in engineering.</data>
+      <data key="d6">course completion, foundational knowledge</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="APSC_V 101">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang's coursework includes APSC_V 101 as a continuation of his engineering education.</data>
+      <data key="d6">course progression, educational path</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="APSC_V 160">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is enrolled in APSC_V 160 to learn about computational design in engineering.".</data>
+      <data key="d6">curriculum focus, applied learning</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="CHEM_V 154">
+      <data key="d4">8.0</data>
+      <data key="d5">Chemistry for Engineering is a required course for Martin Tang, enhancing his understanding of chemical principles in engineering.</data>
+      <data key="d6">course involvement, applied sciences</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="MATH_V 100">
+      <data key="d4">8.0</data>
+      <data key="d5">MATH_V 100 is a fundamental calculus course that Martin Tang is taking as part of his mathematics requirement.</data>
+      <data key="d6">academic requirement, foundational mathematics</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="MATH_V 101">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang's studies include MATH_V 101, a critical course focusing on Integral Calculus.</data>
+      <data key="d6">academic requirement, mathematics course</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="MATH_V 152">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is enrolled in MATH_V 152 to understand Linear Systems as part of his degree requirements.</data>
+      <data key="d6">course enrollment, linear algebra</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="PHYS_V 157">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang completed PHYS_V 157, an introductory physics course crucial for future engineering courses.</data>
+      <data key="d6">course completion, physics knowledge</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="PHYS_V 158">
+      <data key="d4">8.0</data>
+      <data key="d5">PHYS_V 158 is a continuation of physics courses that Martin Tang undertook to deepen his understanding pertinent to engineering.</data>
+      <data key="d6">course continuation, advanced learning</data>
+      <data key="d7">chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="PHYS_V 159">
+      <data key="d4">18.0</data>
+      <data key="d5">Martin Tang teaches the PHYS_V 159 course, providing hands-on physics experience to engineering students.&lt;SEP&gt;PHYS_V 159 provides Martin Tang with practical experience in physics, essential for his engineering education.</data>
+      <data key="d6">course instruction, faculty role&lt;SEP&gt;laboratory experience, practical application</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86&lt;SEP&gt;chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="PHYS_V 170">
+      <data key="d4">17.0</data>
+      <data key="d5">Martin Tang is an instructor for the PHYS_V 170 course, imparting fundamental mechanics concepts to students.&lt;SEP&gt;PHYS_V 170 is a course that Martin Tang takes to explore mechanics, which is vital for engineering fundamentals.</data>
+      <data key="d6">course instruction, faculty role&lt;SEP&gt;course relevance, mechanics education</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86&lt;SEP&gt;chunk-d564692cd2696356ec124209a08af4aa</data>
+    </edge>
+    <edge source="Martin Tang" target="UBC">
+      <data key="d4">9.0</data>
+      <data key="d5">Martin Tang teaches at UBC, contributing to the academic programs in the Faculty of Applied Science.</data>
+      <data key="d6">academic affiliation, teaching</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Martin Tang" target="Introductory Physics Laboratory for Engineers">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is involved in teaching the Introductory Physics Laboratory for Engineers course at UBC.</data>
+      <data key="d6">course instruction, faculty role</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Martin Tang" target="Mechanics I">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang teaches Mechanics I at UBC as part of the undergraduate curriculum.</data>
+      <data key="d6">course instruction, faculty role</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Martin Tang" target="Writing and Research in the Disciplines">
+      <data key="d4">8.0</data>
+      <data key="d5">Martin Tang is also associated with the course Writing and Research in the Disciplines at UBC.</data>
+      <data key="d6">course instruction, faculty role</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Martin Tang" target="WRDS_V 150">
+      <data key="d4">9.0</data>
+      <data key="d5">Martin Tang teaches WRDS_V 150, aiding students in developing their writing and research capabilities.</data>
+      <data key="d6">course instruction, faculty role</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="University of British Columbia" target="Faculty of Applied Science">
+      <data key="d4">18.0</data>
+      <data key="d5">The Faculty of Applied Science is a part of the University of British Columbia, offering engineering programs.</data>
+      <data key="d6">institution structure, educational offerings</data>
+      <data key="d7">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Meta" target="Summer 2025">
+      <data key="d4">9.0</data>
+      <data key="d5">The Summer 2025 internship at Meta represents a significant opportunity for Martin in his career path.</data>
+      <data key="d6">career opportunity, internship</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Notion" target="The Caffeine Experience">
+      <data key="d4">7.0</data>
+      <data key="d5">Martin assisted The Caffeine Experience in migrating to Notion, showcasing his application of software tools in real-world scenarios.</data>
+      <data key="d6">business assistance, software application</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Notion" target="Leadership Workshops">
+      <data key="d4">8.0</data>
+      <data key="d5">The workshops run by Martin at Notion highlight his role in enhancing student skills and community engagement.</data>
+      <data key="d6">educational development, community service</data>
+      <data key="d7">chunk-be42cab223c3bad7ea0f8d1707b8f63d</data>
+    </edge>
+    <edge source="Nanyang Technological University" target="HIST_V 373">
+      <data key="d4">6.0</data>
+      <data key="d5">HIST_V 373 is a course taken by Martin Tang at Nanyang Technological University that contributes to his transfer credits.</data>
+      <data key="d6">course credit, academic record</data>
+      <data key="d7">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Nanyang Technological University" target="COMM_V 3RD">
+      <data key="d4">6.0</data>
+      <data key="d5">COMM_V 3RD is another course taken by Martin Tang at Nanyang Technological University from which he received transfer credit.</data>
+      <data key="d6">course credit, academic record</data>
+      <data key="d7">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Nanyang Technological University" target="COMM_V 498">
+      <data key="d4">6.0</data>
+      <data key="d5">COMM_V 498 is a course offered at NTU that Martin Tang successfully completed, contributing to his academic credits.</data>
+      <data key="d6">course credit, academic record</data>
+      <data key="d7">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Nanyang Technological University" target="HIST_V 1ST">
+      <data key="d4">6.0</data>
+      <data key="d5">HIST_V 1ST is a course taken by Martin Tang at Nanyang Technological University for which he received transfer credit.</data>
+      <data key="d6">course credit, academic record</data>
+      <data key="d7">chunk-43b3af734999a6a20ce7d809755f43c4</data>
+    </edge>
+    <edge source="Faculty of Applied Science" target="CIVL_V 250">
+      <data key="d4">18.0</data>
+      <data key="d5">CIVL_V 250 falls under the curriculum of the Faculty of Applied Science at UBC.&lt;SEP&gt;CIVL_V 250 is part of the curriculum under the Faculty of Applied Science, focusing on engineering sustainability.</data>
+      <data key="d6">academic program, course relationship</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="Faculty of Applied Science" target="CPEN_V 211">
+      <data key="d4">18.0</data>
+      <data key="d5">CPEN_V 211 is organized by the Faculty of Applied Science and is integral to the engineering program at UBC.&lt;SEP&gt;CPEN_V 211 is part of the Faculty of Applied Science's courses for the winter session at UBC.</data>
+      <data key="d6">academic program, course relationship</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="2023 Summer Session (UBC-V)" target="CIVL_V 250">
+      <data key="d4">14.0</data>
+      <data key="d5">CIVL_V 250 is among the courses offered during the 2023 Summer Session at UBC.&lt;SEP&gt;CIVL_V 250 is one of the courses offered during the 2023 Summer Session at UBC, focused on sustainable engineering practices.</data>
+      <data key="d6">course offering, summer session</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="2022-23 Winter Session (UBC-V)" target="CPEN_V 211">
+      <data key="d4">14.0</data>
+      <data key="d5">CPEN_V 211 is a key course taken by students during the 2022-23 Winter Session, vital for understanding computing systems.&lt;SEP&gt;CPEN_V 211 is one of the courses available during the 2022-23 Winter Session in which Martin Tang is enrolled.</data>
+      <data key="d6">course offering, winter session</data>
+      <data key="d7">chunk-abf5cdc9cb9c7b0a244bd9b4e8f4e2ad</data>
+    </edge>
+    <edge source="PHYS_V 159" target="2021-22 Winter Term 2">
+      <data key="d4">8.0</data>
+      <data key="d5">The PHYS_V 159 course is conducted during the 2021-22 Winter Term 2 as part of the curriculum.</data>
+      <data key="d6">academic scheduling, course offering</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="PHYS_V 170" target="2021-22 Winter Term 2">
+      <data key="d4">8.0</data>
+      <data key="d5">Mechanics I (PHYS_V 170) is also offered during the 2021-22 Winter Term 2, aligning with the academic calendar.</data>
+      <data key="d6">academic scheduling, course offering</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Introductory Physics Laboratory for Engineers" target="2021-22 Winter Term 2">
+      <data key="d4">7.0</data>
+      <data key="d5">The Introductory Physics Laboratory for Engineers course takes place during the 2021-22 Winter Term 2.</data>
+      <data key="d6">academic term, course scheduling</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Mechanics I" target="2021-22 Winter Term 2">
+      <data key="d4">7.0</data>
+      <data key="d5">Mechanics I is scheduled for the 2021-22 Winter Term 2 at UBC.</data>
+      <data key="d6">academic term, course scheduling</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Writing and Research in the Disciplines" target="2021-22 Winter Term 1">
+      <data key="d4">7.0</data>
+      <data key="d5">The Writing and Research in the Disciplines course was conducted during the 2021-22 Winter Term 1.</data>
+      <data key="d6">academic term, course scheduling</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Cumulative GPA" target="Cumulative Credits Earned">
+      <data key="d4">8.0</data>
+      <data key="d5">The Cumulative GPA is calculated based on the Cumulative Credits Earned, which is 34 in this case.</data>
+      <data key="d6">academic performance, metrics</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Cumulative GPA" target="Cumulative Totals">
+      <data key="d4">9.0</data>
+      <data key="d5">Cumulative Totals contribute to the calculation of a student's Cumulative GPA, summarizing long-term performance.</data>
+      <data key="d6">academic performance, metrics</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="WRDS_V 150" target="2021-22 Winter Term 1">
+      <data key="d4">8.0</data>
+      <data key="d5">The WRDS_V 150 course takes place in the 2021-22 Winter Term 1, aimed at first-year students.</data>
+      <data key="d6">academic scheduling, course offering</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="Credits Attempted" target="Credits Earned">
+      <data key="d4">9.0</data>
+      <data key="d5">Credits Attempted and Credits Earned are related metrics that assess students' academic workload and performance during a term.</data>
+      <data key="d6">academic performance metrics</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+    <edge source="In Good Standing" target="Dean's List">
+      <data key="d4">8.0</data>
+      <data key="d5">Being In Good Standing is often a criterion for students to be placed on the Dean's List for high academic achievements.</data>
+      <data key="d6">academic honors, performance standards</data>
+      <data key="d7">chunk-ff5fa567fb5583d5b0f81904e39a7a86</data>
+    </edge>
+  </graph>
+</graphml>

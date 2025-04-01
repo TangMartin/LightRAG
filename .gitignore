@@ -67,3 +67,7 @@ test_*
 
 # Cline files
 memory-bank/
+
+# Env
+.env
+.env.example

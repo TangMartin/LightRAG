@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <center><h2>🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation</h2></center>
 <div align="center">
 <table border="0" width="100%">
@@ -1433,3 +1434,25 @@ primaryClass={cs.IR}
 ```
 
 **Thank you for your interest in our work!**
+=======
+### Setting Up the Project Environment
+
+1. Clone the repository.
+2. Create the Conda environment:
+    ```bash
+    conda env create -f environment.yaml
+    ```
+3. Activate the environment:
+    ```bash
+    conda activate myenv
+    ```
+4. Install any additional dependencies using pip if needed:
+    ```bash
+    pip install <package-name>
+    ```
+
+5. Update the environment:
+    ```bash
+    conda env update --file environment.yaml --prune
+    ```
+>>>>>>> 3a8f024 (lightRAG Implementation)

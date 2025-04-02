@@ -71,3 +71,7 @@ memory-bank/
 # Env
 .env
 .env.example
+
+# Directories
+<absolute_path_for_doc_input_dir>/
+<absolute_path_for_working_dir>/
